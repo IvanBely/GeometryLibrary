@@ -1,4 +1,4 @@
-package org.example.geometry;
+package com.example.geometry;
 
 public class Circle {
     private double radius;

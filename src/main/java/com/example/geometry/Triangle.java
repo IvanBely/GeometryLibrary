@@ -1,4 +1,4 @@
-package org.example.geometry;
+package com.example.geometry;
 
 public class Triangle {
     private double a, b, c;
